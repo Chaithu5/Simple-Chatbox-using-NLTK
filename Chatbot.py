@@ -46,7 +46,7 @@ QA = [
     ],
     [
         r"(.*) (location|city) ?",
-        ['Gangtok, Sikkim', ]
+        ['Hyderabad, Telangana', ]
     ],
     [
         r"how is weather in (.*)?",
